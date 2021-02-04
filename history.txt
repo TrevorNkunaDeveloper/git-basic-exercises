@@ -1,0 +1,118 @@
+    1  npm --version
+    2  sudo npm install -g expo-cli
+    3  npm install -g expo-cli
+    4  ls
+    5  cd ~/Documents/
+    6  git clone https://github.com/Umuzi-org/HlulaniTrevor-Nkuna-429-bootcamp-writing-assignment-markdown.git
+    7  git status
+    8  ls
+    9  cd HlulaniTrevor-Nkuna-429-bootcamp-writing-assignment-markdown/
+   10  git status
+   11  git checkout -b MarkdownAssignment
+   12  git status
+   13  git add .
+   14  git commit -m "Bootcamp Writing Assignment_Markdown"
+   15  git push
+   16  git push --set-upstream origin MarkdownAssignment
+   17  cd ..
+   18  mkdir git-basic-exercises
+   19  cd git-basic-exercises/
+   20  ls
+   21  ls .
+   22  ls -a
+   23  git init
+   24  ls -a
+   25  git status
+   26  touch README.md
+   27  ls -a
+   28  git status
+   29  git log
+   30  git add .
+   31  git status
+   32  git rm --cached README.md
+   33  git status
+   34  git add .
+   35  git commit -m "initial commit"
+   36  git log
+   37  cd ..
+   38  cd HlulaniTrevor-Nkuna-429-bootcamp-writing-assignment-markdown/
+   39  git log
+   40  cd ..\..\..
+   41  cd ..\ ..ls -a
+   42  cd ..
+   43  git config --global user.name "Trevor Nkuna"
+   44  git config --global user.email "trevornkuna7@gmail.com"
+   45  cd HlulaniTrevor-Nkuna-429-bootcamp-writing-assignment-markdown/
+   46  git log
+   47  mkdir test
+   48  cd ..
+   49  mkdir test
+   50  cd test
+   51  git init
+   52  touch README.md
+   53  git status
+   54  git add .
+   55  git commit -m "initial test cpommit"
+   56  git log
+   57  q
+   58  mkdir git-basic-exercises
+   59  cd git-basic-exercises/
+   60  ls -a
+   61  git init
+   62  ls -a
+   63  git status
+   64  touch README.md
+   65  ls -a
+   66  git status
+   67  git log
+   68  git add .
+   69  git status
+   70  git commit -m "initial commit"
+   71  git log
+   72  nano README.md
+   73  y
+   74  nano README.md
+   75  cat README.md
+   76  git stats
+   77  git status
+   78  git add .
+   79  git status
+   80  git commit -m "second commit"
+   81  nano README.md
+   82  cat README.md
+   83  git status
+   84  git add .
+   85  git commit -m "third commit"
+   86  git log
+   87  git log
+   88  git checkout 
+   89  git checkout 
+   90  git checkout 2ffca56328889a23823e41066953d2982807d4aff
+   91  git log
+   92  git checkout ffca56328889a23823e41066953d2982807d4aff
+   93  cat README.md
+   94  git checkout main
+   95  git checkout master
+   96  cat README.md
+   97  git branch
+   98  git checkout - b milkshake-flavours
+   99  git checkout -b milkshake-flavours
+  100  git branch
+  101  git branch
+  102  git checkout -b master
+  103  git checkout
+  104  git switch master
+  105  git switch milkshake-flavours 
+  106  nano milshakes.md
+  107  cat milkshakes.md
+  108  git status
+  109  git add .
+  110  git commit -m "added initial flavours"
+  111  git log
+  112  git switch master 
+  113  git log
+  114  git status
+  115  git checkout -b history
+  116  git log
+  117  git branch
+  118  history > history.txt
